@@ -24,7 +24,7 @@ For my comprehensive exploration of the data analyst job market, I utilized seve
 
 # The Analysis
 
-![Top Paying Data Analyst Jobs](graphs\top_paying_jobs_graph.png)
+![Top Paying Data Analyst Jobs](graphs/top_paying_jobs_graph.png)
 
 # What I Learned
 # Conclusions
