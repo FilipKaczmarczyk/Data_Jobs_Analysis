@@ -40,12 +40,15 @@ LIMIT 20
 
 /* 
 Conclusions:
-- The highest-paid skills include PySpark ($208,172), Jupyter ($152,777), 
-Pandas ($151,821), and big data tools like Couchbase ($160,515) and Databricks ($141,907).
-- Highly valued skills include Bitbucket ($189,155), GitLab ($154,500), 
-Kubernetes ($132,500), Jenkins ($125,436), and cloud platforms and automation tools like Airflow ($126,103).
-- AI and machine learning skills also earn high salaries (Watson and DataRobot both $160,515), 
-as well as programming languages ​​like Swift ($153,750) and Golang ($145,000).
+- Top salaries are commanded by analysts skilled in big data technologies (PySpark, Couchbase), 
+machine learning tools (DataRobot, Jupyter), and Python libraries (Pandas, NumPy), 
+reflecting the industry's high valuation of data processing and predictive modeling capabilities.
+- Knowledge in development and deployment tools (GitLab, Kubernetes, Airflow) 
+indicates a lucrative crossover between data analysis and engineering, 
+with a premium on skills that facilitate automation and efficient data pipeline management.
+- Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) 
+underscores the growing importance of cloud-based analytics environments, 
+suggesting that cloud proficiency significantly boosts earning potential in data analytics.
 
 Results:
 
